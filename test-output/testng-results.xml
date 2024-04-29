@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="31" passed="23" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T18:46:21 IST" name="Suite" finished-at="2024-02-28T18:48:02 IST" duration-ms="100571">
+    <groups>
+      <group name="regression">
+        <method signature="TC_003_FilterPage.Click_surgeries()[pri:19, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Click_surgeries" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Give_Expe()[pri:8, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Give_Expe" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Give_Storyfil()[pri:6, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Give_Storyfil" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_DocAddress()[pri:17, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_DocAddress" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_docExpe()[pri:16, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_docExpe" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_docFee()[pri:18, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_docFee" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_docName()[pri:15, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_docName" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Select_sortby()[pri:13, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Select_sortby" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.allFilter_click()[pri:10, instance:TestCases.TC_003_FilterPage@35e2d654]" name="allFilter_click" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_005_FormPage.Invalid_formInput()[pri:22, instance:TestCases.TC_005_FormPage@55183b20]" name="Invalid_formInput" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.SubmitButton()[pri:24, instance:TestCases.TC_005_FormPage@55183b20]" name="SubmitButton" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.SubmitButton1()[pri:28, instance:TestCases.TC_005_FormPage@55183b20]" name="SubmitButton1" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.clear()[pri:25, instance:TestCases.TC_005_FormPage@55183b20]" name="clear" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.organization_size_and_Interest()[pri:27, instance:TestCases.TC_005_FormPage@55183b20]" name="organization_size_and_Interest" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.sizeOfOrganizationAndInterest()[pri:23, instance:TestCases.TC_005_FormPage@55183b20]" name="sizeOfOrganizationAndInterest" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.valid_formInput()[pri:26, instance:TestCases.TC_005_FormPage@55183b20]" name="valid_formInput" class="TestCases.TC_005_FormPage"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_001_HomePage.Click_FindDoc()[pri:1, instance:TestCases.TC_001_HomePage@9597028]" name="Click_FindDoc" class="TestCases.TC_001_HomePage"/>
+        <method signature="TC_002_DetailsPage.clear_Details()[pri:2, instance:TestCases.TC_002_DetailsPage@5b8dfcc1]" name="clear_Details" class="TestCases.TC_002_DetailsPage"/>
+        <method signature="TC_002_DetailsPage.give_Specility()[pri:4, instance:TestCases.TC_002_DetailsPage@5b8dfcc1]" name="give_Specility" class="TestCases.TC_002_DetailsPage"/>
+        <method signature="TC_004_SurgeriesPage.Select_HealthWellness()[pri:21, instance:TestCases.TC_004_SurgeriesPage@1bd4fdd]" name="Select_HealthWellness" class="TestCases.TC_004_SurgeriesPage"/>
+        <method signature="TC_004_SurgeriesPage.print_SurgriesType()[pri:20, instance:TestCases.TC_004_SurgeriesPage@1bd4fdd]" name="print_SurgriesType" class="TestCases.TC_004_SurgeriesPage"/>
+        <method signature="TC_005_FormPage.Invalid_formInput()[pri:22, instance:TestCases.TC_005_FormPage@55183b20]" name="Invalid_formInput" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.SubmitButton()[pri:24, instance:TestCases.TC_005_FormPage@55183b20]" name="SubmitButton" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.SubmitButton1()[pri:28, instance:TestCases.TC_005_FormPage@55183b20]" name="SubmitButton1" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.clear()[pri:25, instance:TestCases.TC_005_FormPage@55183b20]" name="clear" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.organization_size_and_Interest()[pri:27, instance:TestCases.TC_005_FormPage@55183b20]" name="organization_size_and_Interest" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.sizeOfOrganizationAndInterest()[pri:23, instance:TestCases.TC_005_FormPage@55183b20]" name="sizeOfOrganizationAndInterest" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.valid_formInput()[pri:26, instance:TestCases.TC_005_FormPage@55183b20]" name="valid_formInput" class="TestCases.TC_005_FormPage"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_001_HomePage.Click_FindDoc()[pri:1, instance:TestCases.TC_001_HomePage@9597028]" name="Click_FindDoc" class="TestCases.TC_001_HomePage"/>
+        <method signature="TC_002_DetailsPage.clear_Details()[pri:2, instance:TestCases.TC_002_DetailsPage@5b8dfcc1]" name="clear_Details" class="TestCases.TC_002_DetailsPage"/>
+        <method signature="TC_002_DetailsPage.give_Specility()[pri:4, instance:TestCases.TC_002_DetailsPage@5b8dfcc1]" name="give_Specility" class="TestCases.TC_002_DetailsPage"/>
+        <method signature="TC_003_FilterPage.Click_surgeries()[pri:19, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Click_surgeries" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Give_Expe()[pri:8, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Give_Expe" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Give_Storyfil()[pri:6, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Give_Storyfil" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_DocAddress()[pri:17, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_DocAddress" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_docExpe()[pri:16, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_docExpe" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_docFee()[pri:18, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_docFee" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Print_docName()[pri:15, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Print_docName" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.Select_sortby()[pri:13, instance:TestCases.TC_003_FilterPage@35e2d654]" name="Select_sortby" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.allFilter_click()[pri:10, instance:TestCases.TC_003_FilterPage@35e2d654]" name="allFilter_click" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_003_FilterPage.scrollDown()[pri:14, instance:TestCases.TC_003_FilterPage@35e2d654]" name="scrollDown" class="TestCases.TC_003_FilterPage"/>
+        <method signature="TC_004_SurgeriesPage.Select_HealthWellness()[pri:21, instance:TestCases.TC_004_SurgeriesPage@1bd4fdd]" name="Select_HealthWellness" class="TestCases.TC_004_SurgeriesPage"/>
+        <method signature="TC_004_SurgeriesPage.print_SurgriesType()[pri:20, instance:TestCases.TC_004_SurgeriesPage@1bd4fdd]" name="print_SurgriesType" class="TestCases.TC_004_SurgeriesPage"/>
+        <method signature="TC_005_FormPage.Invalid_formInput()[pri:22, instance:TestCases.TC_005_FormPage@55183b20]" name="Invalid_formInput" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.SubmitButton()[pri:24, instance:TestCases.TC_005_FormPage@55183b20]" name="SubmitButton" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.SubmitButton1()[pri:28, instance:TestCases.TC_005_FormPage@55183b20]" name="SubmitButton1" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.clear()[pri:25, instance:TestCases.TC_005_FormPage@55183b20]" name="clear" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.organization_size_and_Interest()[pri:27, instance:TestCases.TC_005_FormPage@55183b20]" name="organization_size_and_Interest" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.sizeOfOrganizationAndInterest()[pri:23, instance:TestCases.TC_005_FormPage@55183b20]" name="sizeOfOrganizationAndInterest" class="TestCases.TC_005_FormPage"/>
+        <method signature="TC_005_FormPage.valid_formInput()[pri:26, instance:TestCases.TC_005_FormPage@55183b20]" name="valid_formInput" class="TestCases.TC_005_FormPage"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-02-28T18:46:21 IST" name="Test" finished-at="2024-02-28T18:48:02 IST" duration-ms="100571">
+      <class name="TestCases.TC_004_SurgeriesPage">
+        <test-method signature="pageScroll()[pri:2, instance:TestCases.TC_004_SurgeriesPage@1bd4fdd]" started-at="2024-02-28T18:47:19 IST" name="pageScroll" finished-at="2024-02-28T18:47:19 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageScroll -->
+        <test-method signature="print_SurgriesType()[pri:20, instance:TestCases.TC_004_SurgeriesPage@1bd4fdd]" started-at="2024-02-28T18:47:19 IST" name="print_SurgriesType" finished-at="2024-02-28T18:47:22 IST" duration-ms="2722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_SurgriesType -->
+        <test-method signature="Select_HealthWellness()[pri:21, instance:TestCases.TC_004_SurgeriesPage@1bd4fdd]" started-at="2024-02-28T18:47:22 IST" name="Select_HealthWellness" finished-at="2024-02-28T18:47:29 IST" duration-ms="6941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_HealthWellness -->
+      </class> <!-- TestCases.TC_004_SurgeriesPage -->
+      <class name="TestCases.TC_001_HomePage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC_001_HomePage@9597028]" started-at="2024-02-28T18:46:22 IST" name="setup" finished-at="2024-02-28T18:46:40 IST" duration-ms="18344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Click_FindDoc()[pri:1, instance:TestCases.TC_001_HomePage@9597028]" started-at="2024-02-28T18:46:40 IST" name="Click_FindDoc" finished-at="2024-02-28T18:46:45 IST" duration-ms="5148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_FindDoc -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC_001_HomePage@9597028]" started-at="2024-02-28T18:48:00 IST" name="tearDown" finished-at="2024-02-28T18:48:02 IST" duration-ms="1389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC_001_HomePage -->
+      <class name="TestCases.TC_003_FilterPage">
+        <test-method signature="Give_Storyfil()[pri:6, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:46:51 IST" name="Give_Storyfil" finished-at="2024-02-28T18:46:52 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Give_Storyfil -->
+        <test-method signature="Give_Expe()[pri:8, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:46:52 IST" name="Give_Expe" finished-at="2024-02-28T18:46:52 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Give_Expe -->
+        <test-method signature="allFilter_click()[pri:10, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:46:52 IST" name="allFilter_click" finished-at="2024-02-28T18:46:53 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allFilter_click -->
+        <test-method signature="Select_sortby()[pri:13, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:46:53 IST" name="Select_sortby" finished-at="2024-02-28T18:46:56 IST" duration-ms="3773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_sortby -->
+        <test-method signature="scrollDown()[pri:14, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:46:56 IST" name="scrollDown" finished-at="2024-02-28T18:47:07 IST" duration-ms="10551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDown -->
+        <test-method signature="Print_docName()[pri:15, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:47:07 IST" name="Print_docName" finished-at="2024-02-28T18:47:12 IST" duration-ms="4709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print_docName -->
+        <test-method signature="Print_docExpe()[pri:16, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:47:12 IST" name="Print_docExpe" finished-at="2024-02-28T18:47:14 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print_docExpe -->
+        <test-method signature="Print_DocAddress()[pri:17, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:47:14 IST" name="Print_DocAddress" finished-at="2024-02-28T18:47:15 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print_DocAddress -->
+        <test-method signature="Print_docFee()[pri:18, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:47:15 IST" name="Print_docFee" finished-at="2024-02-28T18:47:17 IST" duration-ms="1266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print_docFee -->
+        <test-method signature="Click_surgeries()[pri:19, instance:TestCases.TC_003_FilterPage@35e2d654]" started-at="2024-02-28T18:47:17 IST" name="Click_surgeries" finished-at="2024-02-28T18:47:19 IST" duration-ms="2214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_surgeries -->
+      </class> <!-- TestCases.TC_003_FilterPage -->
+      <class name="TestCases.TC_005_FormPage">
+        <test-method signature="Invalid_formInput()[pri:22, instance:TestCases.TC_005_FormPage@55183b20]" started-at="2024-02-28T18:47:29 IST" name="Invalid_formInput" finished-at="2024-02-28T18:47:31 IST" duration-ms="1821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_formInput -->
+        <test-method signature="sizeOfOrganizationAndInterest()[pri:23, instance:TestCases.TC_005_FormPage@55183b20]" started-at="2024-02-28T18:47:31 IST" name="sizeOfOrganizationAndInterest" finished-at="2024-02-28T18:47:32 IST" duration-ms="1090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sizeOfOrganizationAndInterest -->
+        <test-method signature="SubmitButton()[pri:24, instance:TestCases.TC_005_FormPage@55183b20]" started-at="2024-02-28T18:47:32 IST" name="SubmitButton" finished-at="2024-02-28T18:47:32 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitButton -->
+        <test-method signature="clear()[pri:25, instance:TestCases.TC_005_FormPage@55183b20]" started-at="2024-02-28T18:47:32 IST" name="clear" finished-at="2024-02-28T18:47:35 IST" duration-ms="2418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+        <test-method signature="valid_formInput()[pri:26, instance:TestCases.TC_005_FormPage@55183b20]" started-at="2024-02-28T18:47:35 IST" name="valid_formInput" finished-at="2024-02-28T18:47:36 IST" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_formInput -->
+        <test-method signature="organization_size_and_Interest()[pri:27, instance:TestCases.TC_005_FormPage@55183b20]" started-at="2024-02-28T18:47:36 IST" name="organization_size_and_Interest" finished-at="2024-02-28T18:47:36 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organization_size_and_Interest -->
+        <test-method signature="SubmitButton1()[pri:28, instance:TestCases.TC_005_FormPage@55183b20]" started-at="2024-02-28T18:47:36 IST" name="SubmitButton1" finished-at="2024-02-28T18:48:00 IST" duration-ms="24026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitButton1 -->
+      </class> <!-- TestCases.TC_005_FormPage -->
+      <class name="TestCases.TC_002_DetailsPage">
+        <test-method signature="clear_Details()[pri:2, instance:TestCases.TC_002_DetailsPage@5b8dfcc1]" started-at="2024-02-28T18:46:45 IST" name="clear_Details" finished-at="2024-02-28T18:46:46 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear_Details -->
+        <test-method signature="give_Specility()[pri:4, instance:TestCases.TC_002_DetailsPage@5b8dfcc1]" started-at="2024-02-28T18:46:46 IST" name="give_Specility" finished-at="2024-02-28T18:46:51 IST" duration-ms="4680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- give_Specility -->
+      </class> <!-- TestCases.TC_002_DetailsPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

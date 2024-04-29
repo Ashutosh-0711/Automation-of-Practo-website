@@ -1,0 +1,25 @@
+18:46:52.506 [main] INFO  TestCases.TC_001_HomePage - filter for doctor experience is selected
+18:46:53.131 [main] INFO  TestCases.TC_001_HomePage - filter for fee and availablity is selected
+18:46:56.907 [main] INFO  TestCases.TC_001_HomePage - sort by is clicked and sort by selected
+18:47:07.469 [main] INFO  TestCases.TC_001_HomePage - page is scroll down
+18:47:12.181 [main] INFO  TestCases.TC_001_HomePage - list of top 5 doctor's name is printed
+18:47:14.176 [main] INFO  TestCases.TC_001_HomePage - list of top 5 doctor's experience is printed
+18:47:15.804 [main] INFO  TestCases.TC_001_HomePage - list of top 5 doctor's clinic is printed
+18:47:17.078 [main] INFO  TestCases.TC_001_HomePage - list of top 5 doctor's consultation fee is printed
+18:47:19.296 [main] INFO  TestCases.TC_001_HomePage - clicked on surgeries Button
+18:47:19.768 [main] INFO  TestCases.TC_001_HomePage - page is scrolled
+18:47:22.497 [main] INFO  TestCases.TC_001_HomePage - surgery list is displayed
+18:47:29.442 [main] INFO  TestCases.TC_001_HomePage - ***TC_04_CorporateWellness***
+18:47:31.268 [main] INFO  TestCases.TC_001_HomePage - details entered
+18:47:31.915 [main] INFO  TestCases.TC_001_HomePage - orgniztion size is selected
+18:47:32.870 [main] INFO  TestCases.TC_001_HomePage - submit button is clicked
+18:47:36.632 [main] INFO  TestCases.TC_001_HomePage - orgniztion size is selected
+18:48:00.659 [main] INFO  TestCases.TC_001_HomePage - submit button is clicked
+18:48:54.564 [main] INFO  StepDefinations.Hooks -  Testing in chrome___
+18:49:05.426 [main] INFO  StepDefinations.Hooks - *****User is on Details page
+18:49:35.262 [main] INFO  StepDefinations.Hooks - CorporateWellness Form is opened
+18:49:35.366 [main] INFO  StepDefinations.Hooks - CorporateWellness Form is opened
+18:50:11.610 [main] INFO  StepDefinations.Hooks -  Testing in chrome___
+18:50:22.750 [main] INFO  StepDefinations.Hooks - *****User is on Details page
+18:51:14.366 [main] INFO  StepDefinations.Hooks - CorporateWellness Form is opened
+18:51:21.107 [main] INFO  StepDefinations.Hooks - CorporateWellness Form is opened
